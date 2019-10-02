@@ -1,0 +1,2 @@
+# aliases.cmd
+Windows aliases
