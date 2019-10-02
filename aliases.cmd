@@ -11,4 +11,5 @@ DOSKEY status= git status
 DOSKEY dev=cd "%USERPROFILE%\Desktop\dev"
 DOSKEY branch=git branch
 DOSKEY status=git status
-DOSKEY ca=git commit .
+DOSKEY call=git commit .
+DOSKEY tools=cd "%USERPROFILE%\Desktop\Tools"
