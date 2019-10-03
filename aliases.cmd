@@ -13,3 +13,4 @@ DOSKEY branch=git branch
 DOSKEY status=git status
 DOSKEY call=git commit .
 DOSKEY tools=cd "%USERPROFILE%\Desktop\Tools"
+DOSKEY aa=git add .
